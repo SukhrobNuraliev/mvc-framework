@@ -1,0 +1,15 @@
+{
+    "name": "sukhrob/mvc-framework",
+    "authors": [
+        {
+            "name": "sukhrobnuraliev",
+            "email": "sukhrobnuralievv@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
